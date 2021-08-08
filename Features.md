@@ -9,8 +9,9 @@
 |Spotify|  Downloads songs from Spotify| 
 |YouTube video |Downloads video from YouTube| 
 |YouTube audio| Downloads audio from YouTube|  |Utils| usage | |-----|--------| |Sticker|  Contains sticker related Coomands |  #### Send hi to see if the bot is on or not.
-
+|lyrics | gives lyrics of song searched|
 |General| usage |
+
 |----|--------|
 |Admins| Tags all the admins in a given group|
 |Everyone| Tags all participants of the given group, usable only by admins|
@@ -37,6 +38,8 @@ Activate| Activates certain bot features in a group chat|
 |Promote| Promotes the tagged user as a admin on group chat, can be executed only if the one commanding is group admin|
 |Demote| Demotes the tagged user as a standard participant from an admin if he's one. Can work only when commanding user is himself a group admin|
 |Remove| Removes the tagged user from the group, can only work if the bot is an admin and the one commanding this too|
+|open | opens group |
+|close | closes group |
 
 |Utils| usage|
 |----|--------|
